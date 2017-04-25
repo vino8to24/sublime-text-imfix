@@ -1,3 +1,5 @@
+cloned from "https://github.com/lyfeyaj/sublime-text-imfix.git"
+
 Sublime Text 2/3 Input Method(Fcitx) Fix [Ubuntu(Debian)]
 ==========================================================
 
